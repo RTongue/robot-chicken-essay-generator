@@ -17,3 +17,5 @@ npm run generate
 ```
 
 After the app seeds the Markov chain, you'll be given the prompt "In one word, what's your essay about?" Type a word and hit enter, then the algorithm will go to work making your randomly generated essay!
+
+Credits: Created with love in an hour or two by [Robbyn Tongue](https://www.linkedin.com/in/robbyntongue/)
