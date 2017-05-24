@@ -1,5 +1,5 @@
 {
-  "name": "robot-chicken-scraper",
+  "name": "robot-chicken-essay-generator",
   "version": "1.0.0",
   "description": "A web scraper for getting all of the Robot Chicken Scripts",
   "main": "server.js",
@@ -13,6 +13,7 @@
     "cheerio": "^0.22.0",
     "express": "^4.15.3",
     "lodash": "^4.17.4",
+    "markov": "^0.0.7",
     "request": "^2.81.0"
   },
   "devDependencies": {
