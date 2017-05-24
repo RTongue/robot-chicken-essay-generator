@@ -1,0 +1,21 @@
+{
+  "name": "robot-chicken-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper for getting all of the Robot Chicken Scripts",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RTongue <r.tongue@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
